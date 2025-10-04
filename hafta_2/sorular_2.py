@@ -45,6 +45,8 @@ human1 = Human("Mirza", 19, "erkek")
 hoca1 = Hoca("Sinan", 23,"erkek", "Veri Bilimine Giriş")
 ogrenci1 = Ogrenci("İsa", 20, "erkek", "BIL501", 321312321321)
 
+print("*********************************************************************************")
+
 human1.bilgi_ver()
 hoca1.bilgi_ver()
 ogrenci1.bilgi_ver()
@@ -59,3 +61,5 @@ ogrenci1.katil()
 ogrenci1.set_okul_no(1010101010)
 ogrenci1.set_yas(39)
 ogrenci1.konus()
+
+print("*********************************************************************************")
